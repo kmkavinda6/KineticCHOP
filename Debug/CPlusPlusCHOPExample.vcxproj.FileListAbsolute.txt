@@ -1,2 +1,0 @@
-C:\Users\Tech Space\Desktop\Cyber\CHOP\Debug\CPlusPlusCHOPExample.dll
-C:\Users\Tech Space\Desktop\Cyber\KineticCHOP\Debug\KineticCHOP.dll
